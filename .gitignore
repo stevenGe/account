@@ -1,2 +1,5 @@
 /.idea/*
+/account-parent/target/*
+/account-persist/target/*
+/account-email/target/*
 
